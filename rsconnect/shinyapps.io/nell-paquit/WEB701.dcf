@@ -1,0 +1,12 @@
+name: WEB701
+title: WEB701
+username:
+account: nell-paquit
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 358987
+bundleId: 1442495
+url: https://nell-paquit.shinyapps.io/WEB701/
+when: 1529644061.25797
+asMultiple: FALSE
+asStatic: FALSE
